@@ -1448,7 +1448,7 @@
         "manna": 3,
         "attack": 2,
         "health": 3,
-        "descr": "Whenever you play a minion with 3 or less Attack, give it Charge.",
+        "descr": "Whenever you summon a minion with 3 or less Attack, give it Charge",
         "image": "EX1_084"
     },
     {
